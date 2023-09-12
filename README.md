@@ -1,7 +1,7 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/LuciNyan/LuciNyan/output/github-contribution-grid-snake-dark.svg?palette=github-dark#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/LuciNyan/LuciNyan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <h1 align="center">Hi 👋, I'm Astik Sonawane</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer.</h3>
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif">
 - 🌱 I’m currently learning Js, React
 
