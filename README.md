@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **astiksonawane12345@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1VQi9yDIksvUb3ljIEAt39aopd4MjHasA/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1ilVZ_mbY0ZYfPht4SiViYJs-MQsWGtKL/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
