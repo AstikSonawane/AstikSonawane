@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Astik Sonawane</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif">
-- 🌱 I’m currently learning Js, React
+- 🌱 I’m currently learning Data Science, Js & React
 
 - 💬 Ask me about **Python, HTML and CSS**
 
 - 📫 How to reach me **astiksonawane12345@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1ilVZ_mbY0ZYfPht4SiViYJs-MQsWGtKL/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1_xRhAAKAgK9pA89cDmiTtJ8KzFN79LZK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
